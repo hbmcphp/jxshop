@@ -1,0 +1,2 @@
+<?php die('forbidden'); ?>
+{"appid":"101435518","appkey":"ba8a7312982553448e6c77d854eea1f0","callback":"http://jxshop.com/home/user/callback.html","scope":"get_user_info","errorReport":true,"storageType":"file","host":"localhost","user":"root","password":"root","database":"test"}
